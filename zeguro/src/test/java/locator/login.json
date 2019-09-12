@@ -1,0 +1,8 @@
+{
+  "emailid": "(//input[@class='sc-kAzzGY lokjtX'])[1]",
+  "password": "(//input[@class='sc-kAzzGY lokjtX'])[2]",
+  "signin": "(//button[@class='sc-bwzfXH gmTxoc'])[1]",
+  "homevalidate": "//div[@class='sc-cTjmhe hSXJrY']",
+  "validicon": "(//div[@class='sc-iwsKbI hQBmBE'])[3]",
+  "cancelbtn": "//a[@id='hs-eu-decline-button']"
+}
