@@ -9,5 +9,4 @@ Step: Pause untill @homevalidate is display
 Step: Pause 1 sec
 Verify: @homevalidate text is equal 'Set up your security platform.'
 Verify: @validicon is displayed
-
 End
