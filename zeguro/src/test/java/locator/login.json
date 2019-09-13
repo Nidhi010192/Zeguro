@@ -1,8 +1,9 @@
 {
-  "emailid": "(//input[@class='sc-kAzzGY lokjtX'])[1]",
-  "password": "(//input[@class='sc-kAzzGY lokjtX'])[2]",
-  "signin": "(//button[@class='sc-bwzfXH gmTxoc'])[1]",
-  "homevalidate": "//div[@class='sc-cTjmhe hSXJrY']",
-  "validicon": "(//div[@class='sc-iwsKbI hQBmBE'])[3]",
-  "cancelbtn": "//a[@id='hs-eu-decline-button']"
+
+  "cancelbtn": "//a[@id='hs-eu-decline-button']",
+  "emailid": "//input[@id='signInInput']",
+  "password": "//input[@id='signInPassword']",
+  "signin": "//button[contains(text(),'Sign In')]",
+  "homevalidate": "//div[contains(text(),'Home')]",
+  "validicon": "//div[contains(text(),'Set up your security platform')]"
 }
