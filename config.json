@@ -1,0 +1,27 @@
+{
+  "projectDIR" : "D:\\Nidhi_QAble\\zeguro",
+  "run": {
+    "baseUrl": "https://portal.staging.myzeguro.com/",
+    "by": {
+      "tag": [
+        "All"
+      ]
+    },
+    "browser": {
+      "name": [
+        "chrome"
+      ]
+    },
+
+    "parallel": {
+      "status": false,
+      "count": "2"
+    },
+
+    "binaries": {
+      "chrome": ""
+    },
+    "browserClose":false,
+    "highlightElement": true
+  }
+}

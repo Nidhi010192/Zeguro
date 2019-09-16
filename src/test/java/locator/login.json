@@ -1,0 +1,8 @@
+{
+   "cancelbtn": "//a[@id='hs-eu-decline-button']",
+  "emailid": "//input[@id='signInInput']",
+  "password": "//input[@id='signInPassword']",
+  "signin": "//button[contains(text(),'Sign In')]",
+  "homevalidate": "//div[contains(text(),'Home')]",
+  "validicon": "//div[contains(text(),'Set up your security platform')]"
+}

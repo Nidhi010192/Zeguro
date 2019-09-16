@@ -1,0 +1,12 @@
+Test: Login Zeguro
+#All
+ Step: Pause untill @cancelbtn is display
+Step: Click on @cancelbtn
+Step: Enter 'reguser10sep@mailinator.com' in to @emailid
+Step: Enter 'Patel@22781' @password
+Step: Click on @signin
+Step: Pause untill @homevalidate is display
+Step: Pause 1 sec
+Verify: @homevalidate text is equal 'Set up your security platform.'
+Verify: @validicon is displayed
+End
